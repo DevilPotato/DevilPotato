@@ -62,10 +62,11 @@ nav {
     justify-content: flex-start;
     padding-top: 40px;
     gap: 20px;
-    width: 62vh;
-    height: 37vh;
+    width: 320px;
+    height: 180px;
     background-image: url(static/NicePng_note-paper-png_938665.png);
     background-repeat: no-repeat;
+    background-size: 100% 100%;
     margin: auto;
 }
 
