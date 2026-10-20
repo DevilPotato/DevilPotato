@@ -61,7 +61,7 @@ nav {
     align-items: center;
     justify-content: flex-start;
     padding-top: 40px;
-    gap: 20px;
+    gap: 8px;
     width: 320px;
     height: 180px;
     background-image: url(static/NicePng_note-paper-png_938665.png);
@@ -76,25 +76,23 @@ nav {
     color: black;
 }
 
-#project {
+.project {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
-    margin-bottom: 64px;
     height: auto;
     width: auto;
-    background-color: rgba(255, 255, 0, 0.55);
     font-size: 15px;
     padding: 4px 8px;
 }
 
-#project p {
+.project p {
     color: black;
-    margin: 0px;
+    margin: 1px;
 }
 
-#project img {
+.project img {
     width: 15px;
     display: block;
 }
